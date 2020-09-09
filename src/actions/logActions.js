@@ -95,7 +95,7 @@ export const updateLog = log => async dispatch => {
             method: 'PUT',
             body: JSON.stringify(log),
             headers: {
-                'Content-Type': 'appliacation/json'
+                'Content-Type': 'application/json'
             }
         });
 

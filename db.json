@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Hard drive failed in workstation 002",
+      "id": 2,
+      "message": "002 hard drive",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-09-08T18:35:13.526Z",
-      "id": 2
+      "tech": "John Doe",
+      "date": "2020-09-09T18:32:21.479Z"
     }
   ],
   "techs": [
