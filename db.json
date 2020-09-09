@@ -13,13 +13,6 @@
       "tech": "Sara Wilson",
       "date": "2020-09-08T18:35:13.526Z",
       "id": 2
-    },
-    {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-09-08T18:35:39.567Z",
-      "id": 3
     }
   ],
   "techs": [
