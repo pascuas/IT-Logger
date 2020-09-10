@@ -7,7 +7,7 @@ import { getTechs } from '../../actions/techActions';
 const TechListModal = ({ getTechs, tech: { techs, loading} }) => {
     useEffect (() => {
         getTechs();
-        // esLint-disable-next-line
+        // eslint-disable-next-line
     }, []);
 
     return (
